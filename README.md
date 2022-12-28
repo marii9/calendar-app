@@ -2,10 +2,10 @@
 
 
 
-#Description in this website you can use a calendar to save each event of the hour of the day. This website uses fucntionalitys such as, HTML, CSS, and javascript which also includes JQuery.
+# Description in this website you can use a calendar to save each event of the hour of the day. This website uses fucntionalitys such as, HTML, CSS, and javascript which also includes JQuery.
 
 
-#Acceptance Criteria 
+# Acceptance Criteria 
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
 - THEN the current day is displayed at the top of the calendar
@@ -25,3 +25,4 @@
 
 
 
+# URL https://marii9.github.io/calendar-app/
